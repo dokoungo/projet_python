@@ -18,4 +18,4 @@ while verification=="O":
         print("mauvaise reponse!!!\n" + "la bonne reponse etait: " + question_et_reponse['question1'][1] )
     verification = input("veux tu jour un quiz avec moi O | N ")
 
-print("a bientot")
+print("a bientot portez vous bien")
